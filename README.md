@@ -1,1 +1,1 @@
-# This site is inspired by the course of Hidran Arias
+# To-do list with javascript
